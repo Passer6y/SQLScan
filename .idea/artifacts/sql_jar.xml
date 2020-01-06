@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sql_jar</output-path>
+    <root id="archive" name="sql.jar">
+      <element id="module-output" name="sql" />
+    </root>
+  </artifact>
+</component>
